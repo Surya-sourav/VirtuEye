@@ -61,9 +61,9 @@ VirtuEye follows a modular architecture:
 - **Offline Functionality**: Add an offline mode for areas with limited connectivity.
 
 ## Contributors
-- **Sarthak Kumar Kalia** - [LinkedIn](https://www.linkedin.com/in/sarthak-kalia/) | [GitHub](https://github.com/sarthakkalia)
 - **Surya Sourav Parida** - [LinkedIn](https://www.linkedin.com/in/suryaparida/) | [GitHub](https://github.com/Surya-sourav)
 - **Binith Kumar** - [LinkedIn](https://www.linkedin.com/in/binith-kumar/) | [GitHub](https://github.com/Nikkhil0646)
+- **Sarthak Kumar Kalia** - [LinkedIn](https://www.linkedin.com/in/sarthak-kalia/) | [GitHub](https://github.com/sarthakkalia)
 - **Sourav Sahu**
 
 ## Demo Image Overview
